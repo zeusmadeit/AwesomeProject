@@ -33,7 +33,7 @@ expo start
 
 ## Authors
 
-* **Abraham Paul Tornegyen** [ZeusMadeIt](https://github.com/ZeusMadeIt)
+* **Abraham Paul** [ZeusMadeIt](https://github.com/ZeusMadeIt)
 
 ## License
 
